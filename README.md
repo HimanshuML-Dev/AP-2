@@ -1,10 +1,10 @@
 # AP-2
 
-all lab exercise
+lab exercises
 -
-Name : himanshu nagar
+Name : Himanshu Nagar
 -
-batch : b21
+Batch : B-21
 -
 Enrollment Number : 241b621
 -
