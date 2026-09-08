@@ -6,8 +6,9 @@ Name : himanshu nagar
 -
 batch : b21
 -
-enrollment number : 241b621
+Enrollment Number : 241b621
 -
-Email: 241b621@juetguna.ib
+Email : 241b621@juetguna.in
+-
 
 
