@@ -1,6 +1,6 @@
 # AP-2
 
-lab exercises
+Lab Exercises
 -
 Name : Himanshu Nagar
 -
